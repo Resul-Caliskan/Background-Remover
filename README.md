@@ -1,4 +1,4 @@
-Background Remover and Object Processor
+# Background Remover and Object Processor
 A Python tool for automatically removing backgrounds from images, centering objects, and applying professional light effects.
 Features
 
